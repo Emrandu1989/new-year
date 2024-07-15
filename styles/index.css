@@ -31,3 +31,18 @@ header span{
      color: white;
  
 }
+
+/* failure section related styles */
+
+.failure-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 200px 20px 200px;
+}
+.failure-right ul li{
+     display: flex;
+     align-items: center;
+     gap: 10px;
+     list-style: none;
+}
