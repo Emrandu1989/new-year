@@ -1,3 +1,33 @@
 body{
     text-align: center;
+    margin: 20px 150px 20px 150px
+}
+header{
+    height: 800px;
+    background-image: url('../images/banner/banner3.png');
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    color: white;
+    position: relative;
+}
+header h2{
+     font-size: 50px;
+     color: white;
+}
+header span{
+     margin-left: 150px;
+}
+.header-content{
+      width: 500px;
+      position: absolute;
+      right: 200px;
+      top: 200px;
+}
+.header-content button{
+     border: none;
+     padding: 10px;
+     border-radius: 10px;
+     background-color: rgb(75, 57, 57);
+     color: white;
+ 
 }
